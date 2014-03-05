@@ -50,3 +50,5 @@ gem "cucumber-rails", group: [:development, :test]
 gem "haml", ">= 3.0.0"
 gem "slim"
 gem "slim-rails"
+
+gem 'angularjs-rails'
