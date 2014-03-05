@@ -17,4 +17,5 @@
 
 .rbenv-gemsets
 .ruby-version
+.idea/**/*
 .idea/*
